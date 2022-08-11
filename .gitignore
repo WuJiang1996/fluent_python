@@ -1,2 +1,2 @@
-__pycache__
-.ypc
+__pycache__/
+*.ypc
